@@ -1,0 +1,84 @@
+
+body
+{
+    background-color: #fefeff;
+}
+.menu
+{
+  width: 97%;
+  height: 3%;
+  border: 1px solid;
+  margin: 5px auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  position: fixed;
+  background-color: rgb(139, 196, 250);
+}
+.menu div
+{
+    width: auto;
+    height: 20%;
+    margin: 2px;
+}
+a:hover
+{
+    color: red;
+}
+table
+{
+    border: 0;
+    width:35%;
+}
+
+h1
+{
+    background-color:#ffe1f5; 
+    color:black; 
+    text-align: left;
+    font-size: 25px;
+}
+h2
+{
+    background-color:#ffe1f5; 
+    color:black; 
+    text-align: left;
+    font-size: 25px;
+}
+h3
+{ 
+    color:black; 
+    text-align: left;
+    font-size: 1rem;
+}
+.quote
+{
+    width: 30rem;
+    padding: 3rem;
+    border: 2px solid gray;
+    margin: 0;
+    font-style: italic;
+    background-color: rgb(243, 241, 235);
+    margin-right: 25px 50px 75px;
+    outline-style: double;
+    letter-spacing: 1px;
+}
+#special
+{
+    border: black;
+    font-family: Times New Roman;
+    font-size: 1rem;
+}
+span
+{
+    display: block;
+}
+fieldset.stylewidth{
+    width: 70x;
+}
+.bgcolor{
+    background-color: #fefeff;
+}
+.font{
+    font-size: 20px;
+}
